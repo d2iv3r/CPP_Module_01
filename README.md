@@ -1,4 +1,4 @@
-# C++ Module: Memory Allocation, Pointers, References, and Switch Statement
+# C++ Module 00:
 
 ## Overview
 
